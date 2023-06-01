@@ -1,2 +1,2 @@
-# sql
-here i will store my all sql quesry soluations 
+# DeepLearning
+Here I push my deeplearning practice code. 
